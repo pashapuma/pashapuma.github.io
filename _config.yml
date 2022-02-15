@@ -15,10 +15,14 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Apps:
+    - Pix Material You: "https://beautifuljekyll.com"
+    - Pix Material You Light/Dark: "https://www.markdowntutorial.com/"
+    - Pix Material: "https://www.markdowntutorial.com/"
+    - Pix Material Colors: "https://www.markdowntutorial.com/"
+    - Pix Material Dark: "https://www.markdowntutorial.com/"
+    - Pix Minimal Black/White: "https://www.markdowntutorial.com/"
+  Play Store Page: "https://https://play.google.com/store/apps/dev?id=6218933727384977479&hl"
 
 # --- Logo --- #
 
